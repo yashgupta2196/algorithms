@@ -1,3 +1,7 @@
 # algorithms
 
-This repository contains the algorithms I have made, or my modifications to some existing algorithms.
+This repository contains some algorithms I have used, or my modifications to them, or some algorithms that I have come up with.
+
+Dijkstra's algorithm - An algorithm to find the shortest path between any two nodes in a graph.
+
+Telephone network - A modofocation to Dijkstra's algorithm, where I have converted it from a shortest path algo, to a longest path algo, and applied it to a telephone network.
